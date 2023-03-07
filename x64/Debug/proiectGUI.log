@@ -1,0 +1,13 @@
+﻿  moc mainWindow.h
+  Anime.cpp
+  Repo.cpp
+  RepoTests.cpp
+  UI.cpp
+  Ctrl1.cpp
+  mainWindow.cpp
+  proiectGUI.cpp
+  main.cpp
+  qrc_proiectGUI.cpp
+  moc_proiectGUI.cpp
+  moc_mainWindow.cpp
+  proiectGUI.vcxproj -> C:\Users\asus\source\repos\proiectGUI\x64\Debug\proiectGUI.exe
